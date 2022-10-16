@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "358609869104",
+    "project_id": "daily-news-b2571",
+    "storage_bucket": "daily-news-b2571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358609869104:android:f945882b4389e78f8b10f5",
+        "android_client_info": {
+          "package_name": "com.harsh.daily_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358609869104-ei3vehiqjejnmg69mj0h7vbanajqaaia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harsh.daily_news",
+            "certificate_hash": "60a9bab8bda047503d3fc1da1b97be99f3d5938d"
+          }
+        },
+        {
+          "client_id": "358609869104-5ub4kjkauuud9grrdbkgk59vb7mr1cv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD892hL4LWY_u9E2JBzm60IUdK05PilO5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358609869104-5ub4kjkauuud9grrdbkgk59vb7mr1cv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
