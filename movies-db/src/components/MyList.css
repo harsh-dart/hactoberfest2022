@@ -1,0 +1,11 @@
+.no-results-myList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.no-results-myList img {
+    width: 150px;
+    height: 150px;
+}
